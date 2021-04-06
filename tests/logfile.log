@@ -1,0 +1,40 @@
+2021-04-02 20:39:55,833 : INFO : test_e2e : getting all the card titles
+2021-04-02 20:39:56,067 : INFO : test_e2e : Entering country name as India
+2021-04-02 20:40:01,482 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-03 08:21:54,947 : INFO : test_formSubmission : first name is Rahul
+2021-04-03 08:21:55,481 : INFO : test_formSubmission : first name is Anshika
+2021-04-03 08:21:55,481 : INFO : test_formSubmission : first name is Anshika
+2021-04-03 08:22:01,124 : INFO : test_e2e : getting all the card titles
+2021-04-03 08:22:01,365 : INFO : test_e2e : Entering country name as India
+2021-04-03 08:22:06,808 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-03 08:28:32,749 : INFO : test_formSubmission : first name is Rahul
+2021-04-03 08:28:33,228 : INFO : test_formSubmission : first name is Anshika
+2021-04-03 08:28:33,228 : INFO : test_formSubmission : first name is Anshika
+2021-04-03 08:28:38,246 : INFO : test_e2e : getting all the card titles
+2021-04-03 08:28:38,447 : INFO : test_e2e : Entering country name as India
+2021-04-03 08:28:43,840 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-04 21:03:00,228 : INFO : test_formSubmission : first name is Rahul
+2021-04-04 21:03:01,223 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:03:01,223 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:03:12,543 : INFO : test_e2e : getting all the card titles
+2021-04-04 21:03:12,750 : INFO : test_e2e : Entering country name as India
+2021-04-04 21:03:18,623 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-04 21:14:19,001 : INFO : test_formSubmission : first name is Rahul
+2021-04-04 21:14:24,142 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:14:24,142 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:14:41,384 : INFO : test_e2e : getting all the card titles
+2021-04-04 21:14:42,104 : INFO : test_e2e : Entering country name as India
+2021-04-04 21:14:47,928 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-04 21:27:07,375 : INFO : test_formSubmission : first name is Rahul
+2021-04-04 21:27:08,303 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:27:08,303 : INFO : test_formSubmission : first name is Anshika
+2021-04-04 21:27:19,845 : INFO : test_e2e : getting all the card titles
+2021-04-04 21:27:20,058 : INFO : test_e2e : Entering country name as India
+2021-04-04 21:27:25,427 : INFO : test_e2e : Text received from Appliction is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-04-05 00:36:39,465 : INFO : test_formSubmission : first name is Rahul
